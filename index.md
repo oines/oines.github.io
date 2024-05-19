@@ -1,1 +1,1 @@
-[TIAL游戏教程](/TIAL_tips.md)
+[TIAL游戏教程](/TIAL_tips)
