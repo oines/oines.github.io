@@ -14,4 +14,4 @@
 
 ### 特殊合成表
 ![鞘翅合成表](/files/elytra_item.png)  
-![潜影壳合成表](/files/shulker_shell.png)
+![潜影壳合成表](/files/files/shulker_shell_item.png)
