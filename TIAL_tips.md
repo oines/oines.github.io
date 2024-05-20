@@ -20,3 +20,7 @@
 ### 特殊合成表
 ![鞘翅合成表](/files/elytra_item.png)  
 ![潜影壳合成表](/files/shulker_shell_item.png)
+
+### 权限问题
+游客无法破坏一些特殊区域，只有正式玩家才可以。  
+成为正式玩家暂时没有门槛，只要你[进群(244962071)](https://qm.qq.com/q/zqDN2TlHdA)了管理就会给你加。
