@@ -23,4 +23,4 @@
 
 ### 权限问题
 游客无法破坏一些特殊区域，只有正式玩家才可以。  
-成为正式玩家暂时没有门槛，只要你[进群(244962071)](https://qm.qq.com/q/zqDN2TlHdA)了管理就会给你加。
+成为正式玩家暂时没有门槛，只要你[进QQ群(244962071)](https://qm.qq.com/q/zqDN2TlHdA)或[加入discord服务器](https://discord.gg/HZFvqy4tBd)了管理就会给你加。
